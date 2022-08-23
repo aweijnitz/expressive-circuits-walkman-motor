@@ -49,10 +49,17 @@ The faceplate arwork was developed in collaboration with the Midjourney bot.
 - Driving the walkman on 3.3V is technically correct, as it is a 3V device, but it seems to be too weak. The motor easily stalls. Experiment with the settings in the Arduino sketch to tune the range. It is probably worth trying to drive the motor on 5V instead of 3.3V to get more torque.
 - The speed indicatio LED is too small (100R) for the 8mm brigh white LED. It has been compensate for in the code, but at the cost of only having 32 levels of brightness. It is worth increasing the resistor value and re-tuning the code to fit.
 
+## Images
+
+### Working module, mounted in rack
 
 ![Module mounted in the rack](assets/module-in-rack.jpg)
 
+### Walkman modification points
+
 ![Walkman integration points](assets/walkman-modification-points.jpg)
+
+### Headphone signal in and filtered, amplified signal out (rack level)
 
 ![Module mounted in the rack](assets/scope-in-out-signal.jpg)
 
