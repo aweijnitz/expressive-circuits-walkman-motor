@@ -38,6 +38,11 @@ The headphone output of the walkman is fed back to the circuit from the driver t
 
 The final amplification stage applifes a lowpass filter at around 16KHz to get rid of occational spikes observed during testing. It then amplifies the signal to eurorack levels. The gain is set by the user via a knob.
 
+
+## Credits
+
+The arwork was developed in collaboration with the Midjourney bot.
+
 ## Known issues
 
 - The clip indicator LED on the output does not work. It is a legacy feature and will be removed.
