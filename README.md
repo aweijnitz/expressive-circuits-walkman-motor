@@ -41,7 +41,7 @@ The final amplification stage applifes a lowpass filter at around 16KHz to get r
 
 ## Credits
 
-The arwork was developed in collaboration with the Midjourney bot.
+The faceplate arwork was developed in collaboration with the Midjourney bot.
 
 ## Known issues
 
