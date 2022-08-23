@@ -6,6 +6,8 @@ This repo contains code, assets and hardware description files (schematic and PC
 
 The intended use is to combine the world of tape loops and modified walkmans with the modular synthesizer universe. See picture below.
 
+[Schematics](easyEDA-files/Schematic_WalkmanMotorModule_2022-08-23.pdf)
+
 ## Status of this repo, 23-AUG-2022
 
 - Revision 1 of this board has been ordered, built, fixed/patched and verified to work
