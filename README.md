@@ -59,7 +59,7 @@ The faceplate arwork was developed in collaboration with the Midjourney bot.
 
 ![Walkman integration points](assets/walkman-modification-points.jpg)
 
-### Headphone signal in and filtered, amplified signal out (rack level)
+### Headphone signal in and filtered, amplified, signal out (rack level)
 
 ![Module mounted in the rack](assets/scope-in-out-signal.jpg)
 
