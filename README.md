@@ -64,4 +64,13 @@ Notice that the negative spike in the input signal has been filtered out and rem
 
 ![Module mounted in the rack](assets/scope-in-out-signal.jpg)
 
+### PCB top side 
+Top side of patched rev 1 of the PCB. It shows controls and feedback LEDs. The clip LED is patched out and has no function.
+
+![Top side of patched rev 1 of the PCB](assets/PCB-top-side.jpg)
+
+### PCB bottom side 
+Bottom side of patched rev 1 of the PCB. It shows the arduino and a heavily patched op amp next to it. The patch fixes a routing error and adds a lowpass filter to remove occational voltage spikes in the incoming signal from the walkman.
+
+![PCB, rev 1 bottom side ](assets/PCB-bottom-side.jpg)
 
