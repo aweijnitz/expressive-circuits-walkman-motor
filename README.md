@@ -1,5 +1,7 @@
 # Walkman Motor - A Walkman bridge to Eurorack
 
+![Module mounted in the rack](assets/module-in-rack.jpg)
+
 ## Overview
 
 This repo contains code, assets and hardware description files (schematic and PCB gerber) for a eurorack compatible module which is intended to control the motor speed of a modified walkman. It also does signal conditioning to bring the headphone out levels of the walkman to eurorack levels (~10Vpp).
@@ -50,10 +52,6 @@ The faceplate arwork was developed in collaboration with the Midjourney bot.
 - The speed indicatio LED is too small (100R) for the 8mm brigh white LED. It has been compensate for in the code, but at the cost of only having 32 levels of brightness. It is worth increasing the resistor value and re-tuning the code to fit.
 
 ## Images
-
-### Working module, mounted in rack
-
-![Module mounted in the rack](assets/module-in-rack.jpg)
 
 ### Walkman modification points
 
